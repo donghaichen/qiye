@@ -1,0 +1,6 @@
+/* CSS Document */
+.clearfix{clear:both;}
+.fl{float:left;}
+.fr{float:right;}
+.listnone{ list-style-typ:none;margin-right:20px;}
+.listnone li{ display:inline;padding-right:5px;}

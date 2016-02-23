@@ -1,0 +1,60 @@
+#shouyes{
+margin-right:10px;
+margin-top:5px;
+
+width:295px;
+float:right;
+height:210px;
+color:#B4B2B2;
+background: url(../images/cunbai.png);
+//float:right; 
+}
+#shouyes a{
+position: relative;
+top:16px;
+left:146px;
+cursor: pointer;
+z-index:1000;
+}
+#shouyes .error{
+color:red;
+}
+#shouyes img{
+position: relative;
+top:20px;
+left:30px;
+}
+#forms{
+color:black;
+position: relative;
+top:-25px;
+left:33px;
+}
+#forms input{
+width:178px;   
+height:25px;
+border: 1px solid #53889e;
+margin-top:12px;
+}
+#forms .one{
+margin-top:65px;
+}
+#forms .dlss{
+width: auto;
+height:23px;
+border: 0px;
+position: relative;
+left: 42px;
+top:5px;
+}
+
+#shouyes .wjmm{
+    position: relative;
+    top:-42px;
+    left:200px;
+    color:black;
+}
+
+#shouyes .wjmm:hover{
+    color:red;
+}

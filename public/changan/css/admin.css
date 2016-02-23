@@ -1,0 +1,104 @@
+body {
+	background: url(../images/bg_body.jpg) repeat;
+}
+#side {
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	top: 108px;
+	width: 174px;
+	padding: 0px 0px 0px 5px;
+	z-index: 11;
+	border-right: 1px solid #D7D7D7;
+	text-align: left;
+	background-color: #FFFCF3;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+#side ul li {
+	padding: 2px;
+	border-bottom: 1px solid #dedede;
+}
+#side ul li.sidemenu {
+	display: block;
+	padding: 0px 5px 0px 22px;
+	line-height: 21px;
+	font-weight: bold;
+	color: #F77804;
+	cursor: pointer;
+	background: url('../images/icon.gif') no-repeat scroll 8px -546px transparent;
+}
+#side ul ul.submenu li {
+	padding-left: 20px;
+}
+#side ul ul.submenu li a {
+	display: block;
+	width: 141px;
+	overflow: hidden;
+	padding: 3px 0px 3px 18px;
+	outline: medium none;
+	color: #333;
+	background: url('../images/icon.gif') no-repeat scroll 0px -562px #FFFCF3;
+}
+#side ul ul.submenu li.selected a {
+	color: #000;
+	background: url('../images/icon.gif') no-repeat scroll 0px -590px #FDE4C7;
+}
+#article {
+	background-color: #FFFCF3;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-left: 190px;
+	padding: 5px;
+}
+.tab_menu {
+	height: 25px;
+	border-bottom: 1px solid #dedede;
+}
+.tab_menu ul li {
+	display: inline;
+	float: left;
+	margin-right: 3px;
+}
+.tab_menu ul li a {
+	padding: 3px 8px;
+	background: none repeat scroll 0% 0% #EFEFEF;
+}
+.tab_menu ul li a:hover {
+	color: #FFF;
+	background: none repeat scroll 0% 0% #498CD0;
+}
+.tab_menu ul li.current, .tab_menu ul li.current a {
+	color: #FFF;
+	background: none repeat scroll 0% 0% #498CD0;
+}
+.content_view td {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.content_view td.upic {
+	border-left: #eee 1px solid;
+	text-align: center;
+}
+.content_view td.upic img {
+	cursor: pointer;
+	width: 150px;
+	height: 150px;
+}
+.content_view th {
+	background: #eef3f7;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 5px;
+	border-bottom: #d5dfe8 1px solid;
+	font-weight: normal;
+}
+.content_view td {
+	border-bottom: #eee 1px solid;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 5px;
+}
+input {
+	margin-bottom: 0px !important;
+}

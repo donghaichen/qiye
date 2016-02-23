@@ -1,0 +1,12 @@
+/* CSS Document */
+
+.table {
+	display: table;
+	border-collapse: separate;
+}
+.tb_row {
+	display: table-row;
+}
+.tb_row div {
+	display: table-cell;
+}

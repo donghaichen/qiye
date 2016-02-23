@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="{$base_url}changan/css/css.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+<div id="bottom_use">
+<div style="width:800px; margin:0 auto;">
+<table cellspacing="0" cellpadding="0" border="0" align="center" width="1000" style="margin-bottom: 50px;">
+<tbody>
+<tr>
+<td width="258" height="60"> </td>
+<td width="330"> </td>
+<td width="151"> </td>
+<td width="102"> </td>
+<td width="159"> </td>
+</tr>
+<tr>
+<td valign="center">
+<table cellspacing="0" cellpadding="0" border="0" align="center" width="230">
+<tbody>
+<tr>
+<td width="350" valign="top" height="78">
+<img width="209" height="58" src="{$base_url}changan/images/bottom_logo.jpg"><br/>
+<span style="margin-left:70px;margin-top:10px;"></span>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="330" align="center">
+<tbody>
+<tr class="hei_14">
+<td width="114">
+<strong>关于长安资产</strong>
+</td>
+<td width="124">
+<strong>长安学堂</strong>
+</td>
+<td width="112">
+<strong>帮助中心</strong>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td class="hei_12" valign="top" style="line-height:20px;">
+<a class="hei_12" href="{$base_url}about/gsjj">公司简介</a>
+<br>
+<a class="hei_12" href="{$base_url}product">公司产品</a>
+<br>
+<a class="hei_12" href="{$base_url}about/contact">联系我们</a>
+<br>
+</td>
+<td class="hei_12" valign="top" style="line-height:20px;">
+<a class="hei_12" href="{$base_url}study/lcyd">理财园地</a>
+<br>
+<a class="hei_12" href="{$base_url}study/hyzx">行业资讯</a>
+<br>
+<a class="hei_12" target="_blank" href="{$base_url}study/zcfg">政策法规</a>
+<br>
+</td>
+<td class="hei_12" valign="top" style="line-height:20px;">
+<a class="hei_12" href="{$base_url}service-center/ourservice">客户服务</a>
+<br>
+<a class="hei_12" href="{$base_url}service-center/zcfw">注册服务</a>
+<br>
+<a class="hei_12" href="{$base_url}jobs">诚聘英才</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="24%" style="border-left:solid 2px #5a5a5a;"> </td>
+<td width="76%" style="font-size:12px; color:#5A5A5A; line-height:20px;">
+<span style="color:#000; font-weight:bold;">客户服务</span>
+<br>
+4000919285 
+<br>
+<a style="font-size:12px; color:#5A5A5A; line-height:20px;" href="mailto:service@caitongam.com">service@changanfunds.com</a>
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> </td>
+</tr>
+<tr>
+
+</tr>
+<tr>
+
+</tr>
+<tr>
+
+</tr>
+</tbody>
+</table>
+</td>
+
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+    </body>
+</html>
